@@ -1,4 +1,3 @@
-Telit Assignment
 Project name : Student Management System
 
 
